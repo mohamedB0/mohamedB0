@@ -2,6 +2,6 @@
 - 👀 I’m interested in artificial intelligence, data science, and machine learning.
 - 🌱 I’m currently learning about neural networks, data analysis techniques, and algorithms.
 - 💞️ I’m looking to collaborate on projects related to AI, data visualization, and predictive modeling.
-- 📫 How to reach me: mohamedbouada99@gmail.com ou via LinkedIn https://www.linkedin.com/in/mohamed-bouada-650745313/.
+- 📫 How to reach me: Bouadacontact@gmail.com ou via LinkedIn https://www.linkedin.com/in/mohamed-bouada-650745313/.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I enjoy exploring new technologies and their applications in solving real-world problems.
