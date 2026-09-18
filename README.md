@@ -48,4 +48,3 @@ fun_fact: "I enjoy exploring new technologies and their applications in solving 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 </p>
-![Snake animation](https://github.com/mohamedB0/mohamedB0/blob/output/github-contribution-grid-snake.svg)
