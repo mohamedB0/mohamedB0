@@ -45,49 +45,6 @@ fun_fact: "I enjoy exploring new technologies and their applications in solving 
 
 > Adjust this list freely — swap in R, SQL, PyTorch, Tableau, Power BI, etc. from [DevIcon](https://devicon.dev/) depending on your actual stack.
 
-
-### 🐍 Contribution Snake
-
-Add this line (after setting up the GitHub Action below) to show an animated snake eating your contribution graph:
-
-```md
-![Snake animation](https://github.com/mohamedB0/mohamedB0/blob/output/github-contribution-grid-snake.svg)
-```
-
-<details>
-<summary>⚙️ How to enable it</summary>
-
-1. In this repo, go to **Actions → New workflow → set up a workflow yourself**.
-2. Name the file `snake.yml` and paste:
-
-```yaml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@master
-        id: snake-gif
-        with:
-          github_user_name: mohamedB0
-          svg_out_path: dist/github-contribution-grid-snake.svg
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-3. Commit, then run the workflow manually once from the Actions tab.
-</details>
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 </p>
