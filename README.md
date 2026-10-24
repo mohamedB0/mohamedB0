@@ -43,7 +43,6 @@ fun_fact: "I enjoy exploring new technologies and their applications in solving 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 </p>
 
-> Adjust this list freely — swap in R, SQL, PyTorch, Tableau, Power BI, etc. from [DevIcon](https://devicon.dev/) depending on your actual stack.
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
